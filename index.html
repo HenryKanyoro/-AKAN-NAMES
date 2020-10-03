@@ -59,7 +59,29 @@
             <div class="col-md-5">
                 <form>
 
-  
+                    <div class="mwaka">
+                        <label for="year">Year:</label>
+                        <input type="number" class="form-control" id="year">
+                    </div>
+                    <div class="mwezi">
+                        <label for="month">Month:</label>
+                        <input type="number" class="form-control" id="month">
+                    </div>
+                    <div class="siku">
+                        <label for="date">Date:</label>
+                        <input type="number" class="form-control" id="date">
+                    </div>
+                    <div class="radio">
+                        <lable class="gender">
+                            <input type="radio" id="male" name="gender" value="male">Male
+                            <input type="radio" id="female" name="gender" value="female">Female
+                        </lable>
+                    </div>
+                    <button type="button" class="btn-primary" onclick="findOut()">Find Out</button>
+                    <button type="reset" class="btn-primary" value="reset">Reset</button>
+                </form>
+            </div>
+        </div>
     </div>
     <script src="js/script.js"></script>
 </body>
