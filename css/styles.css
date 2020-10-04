@@ -1,13 +1,7 @@
-body{
-    background-image:url(../images/mehrad-vosoughi-1E5XakhWNOw-unsplash.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+*{
+    background-color: greenyellow;
 }
 h1{
     color:red;
     text-align: center;
-    
 }
-h2{
-    color:white;
-}2
