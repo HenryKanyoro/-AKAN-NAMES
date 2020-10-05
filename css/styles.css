@@ -27,4 +27,6 @@ h3{
 .button{
     text-align: center;
 }
-    
+.card ul li{
+    color: blue;
+}    
