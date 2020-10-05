@@ -1,7 +1,12 @@
 body{
     background-image: url(../images/bob-chisholm-l9I9vJOfUV0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1{
     color:red;
+    text-align: center;
+}
+p{
     text-align: center;
 }
