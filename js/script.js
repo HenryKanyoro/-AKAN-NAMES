@@ -54,5 +54,6 @@ function findOut(){
     else if(document.getElementById("female").checked == true && document.getElementById("male").checked==false){
         alert("Your Akan name is " + femaleName[he]);
     }
+    
         
 }
