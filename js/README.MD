@@ -1,5 +1,5 @@
-# PORTFOLIO
-#### {This portfolio is for displaying my other projects}, {27/09/2020}
+# Akan-Names
+#### Created on  {4/1O/2020}
 #### By **Henry Kanyoro**    
 ---
 ## Setup instructions
